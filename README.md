@@ -58,6 +58,8 @@ A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
 V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V^2 / 2 = 4.91^2 / 2
+<img width="993" height="870" alt="image" src="https://github.com/user-attachments/assets/25bf08e1-8f47-4a9f-bf02-5b2fa54ae6ff" />
+
 
 ---
 ## Tabulation
